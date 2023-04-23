@@ -8,8 +8,5 @@ Personal repo of small and large react projects targeting different concepts lik
 ![alt](https://github.com/eskevv/react-projects/blob/main/media/food_app_prev.png)
 ## [Countdown](https://github.com/eskevv/react-projects/tree/main/countdown)
 ![alt](https://github.com/eskevv/react-projects/blob/main/media/countdown.png)
-## [Example-Login](https://github.com/eskevv/react-projects/tree/main/login-effect)
-![alt](https://github.com/eskevv/react-projects/blob/main/media/login_prev.png)
-## [List Insert](https://github.com/eskevv/react-projects/tree/main/user-list)
-![alt](https://github.com/eskevv/react-projects/blob/main/media/user_list_prev.png)
+
 
